@@ -1,1 +1,3 @@
 # BigData
+
+esercizi big data
