@@ -1,3 +1,3 @@
 # BigData
 
-esercizi big data
+esercizi big dataj
